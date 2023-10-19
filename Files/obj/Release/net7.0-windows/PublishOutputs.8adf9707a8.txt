@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\Praca\Projects\TelusEarningsCalculator\TelusEarningsCalculator.exe
+\\Mac\Home\Desktop\Praca\Projects\TelusEarningsCalculator\TelusEarningsCalculator.dll
+\\Mac\Home\Desktop\Praca\Projects\TelusEarningsCalculator\TelusEarningsCalculator.deps.json
+\\Mac\Home\Desktop\Praca\Projects\TelusEarningsCalculator\TelusEarningsCalculator.runtimeconfig.json
+\\Mac\Home\Desktop\Praca\Projects\TelusEarningsCalculator\TelusEarningsCalculator.pdb
