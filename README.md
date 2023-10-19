@@ -9,5 +9,6 @@ The main objective of this application is to calcluate your daily/weekly/monthly
 Task Rates - Currently this section is under construction, the task rates inisde the project are for a PL-pl-locale, which in the future are going to be modifiable 
 
 The application interface consists with interactive Sidebar and sub-menu (Earnigns Calculator) button, exit button, Task Rates Button, Task type buttons and icons.
+
 <img width="787" alt="TEC1" src="https://github.com/KacperOrmaniec/TelusEarningsCalculator.Exe/assets/121140262/509418f0-6366-4503-a560-22c4e7b61b7f">
 <img width="784" alt="TEC2" src="https://github.com/KacperOrmaniec/TelusEarningsCalculator.Exe/assets/121140262/227b02f3-482c-4650-b3dd-ef8b8e080895">
